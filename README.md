@@ -4,20 +4,6 @@ A modern, responsive, and interactive Login & Registration UI built using **HTML
 
 ---
 
-## 📸 Preview
-
-![Project Preview](preview.png)
-
-> Replace `preview.png` with a screenshot of your project.
-
----
-
-## 🚀 Live Demo
-
-🔗 Live Website: https://your-live-demo-link.com
-
----
-
 ## 📂 GitHub Repository
 
 🔗 https://github.com/yourusername/login-registration-ui
