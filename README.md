@@ -116,7 +116,7 @@ Feel free to fork the repository and submit a pull request.
 📩 Email: msaiaditya@gmail.com
 
 🔗 LinkedIn:
-https://linkedin.com/in/your-linkedin
+www.linkedin.com/in/m-adityaa-47b1853b6
 
 💻 GitHub:
 https://github.com/msaiaditya4-a11y
