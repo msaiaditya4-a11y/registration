@@ -6,7 +6,7 @@ A modern, responsive, and interactive Login & Registration UI built using **HTML
 
 ## 📂 GitHub Repository
 
-🔗 https://github.com/yourusername/login-registration-ui
+🔗 https://github.com/msaiaditya4-a11y/registration
 
 ---
 
@@ -60,39 +60,6 @@ Login-Registration-UI/
 └── README.md
 ```
 
----
-
-## 💻 Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/yourusername/login-registration-ui.git
-```
-
-Open the project
-
-```bash
-cd login-registration-ui
-```
-
-Run
-
-Simply open `index.html` in your browser.
-
----
-
-## 📷 Screenshots
-
-### Login Page
-
-![Login](images/login.png)
-
-### Registration Page
-
-![Register](images/register.png)
-
----
 
 ## 📚 What I Learned
 
@@ -146,13 +113,13 @@ Feel free to fork the repository and submit a pull request.
 
 **M Leela Sai Aditya**
 
-📩 Email: your-email@example.com
+📩 Email: msaiaditya@gmail.com
 
 🔗 LinkedIn:
 https://linkedin.com/in/your-linkedin
 
 💻 GitHub:
-https://github.com/yourusername
+https://github.com/msaiaditya4-a11y
 
 ---
 
